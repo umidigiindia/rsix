@@ -1,1 +1,1 @@
-# rsix
+# rsix.sh
